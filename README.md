@@ -24,4 +24,4 @@ When we hover the phone camera over it, text or a link will appear that can be c
 
 Когда мы наведем на него камеру телефона, появится текст или ссылка, по которой можно будет перейти
 
-[Here you can financially support the developer / Здесь вы можете помочь мне финансового.](https://www.donationalerts.com/r/sopikww)
+[Here you can financially support the developer / Здесь вы можете помочь мне финансово.](https://www.donationalerts.com/r/sopikww)
