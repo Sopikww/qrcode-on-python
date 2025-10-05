@@ -1,0 +1,1 @@
+First, you need to download the necessary libraries for Python. You can download them yourself:qrcode, segno, tkinter. Alternatively, you can simply run "import library.bat" and everything will be downloaded automatically.
