@@ -10,3 +10,4 @@ After we do this, a QR code will appear.
 When we hover the phone camera over it, text or a link will appear that can be clicked on
 
 Here you can financially support the developer.
+https://www.donationalerts.com/r/sopikww
